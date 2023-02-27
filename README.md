@@ -42,7 +42,7 @@
 </ul>  
 <h2>Model Prediction</h2>
 <p align="center"> 
-<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Output.png?raw=true" width="700" height="400">
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Output.png?raw=true" width="800" height="500">
 </p>
 </p>
 <h2>Model Introspection</h2>
@@ -60,7 +60,7 @@
 </p>
 <h4>Classification Report</h4>  
 <p align="center"> 
-<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Classification%20Report.png?raw=true" width="700" height="400">
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Classification%20Report.png?raw=true" width="400" height="700">
 </p>
 
 
