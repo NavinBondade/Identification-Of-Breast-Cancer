@@ -28,7 +28,7 @@
 <p align="center"> 
 <img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Loss.png?raw=true" width="700" height="400">
 </p>
-<h3>Model Accuracy</h3>  
+<h4>Model Accuracy:</h4>  
 <p align="center"> 
 <img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Accuracy.png?raw=true" width="700" height="400">
 </p>
