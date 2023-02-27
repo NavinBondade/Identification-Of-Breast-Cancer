@@ -30,7 +30,8 @@
 </p>
 <h3>Model Accuracy</h3>  
 <p align="center"> 
-<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Accuracy.png?raw=true">
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Accuracy.png?raw=true" width="800" height="500">
+</p>
 </p>
 
 
