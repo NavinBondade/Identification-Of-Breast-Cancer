@@ -40,5 +40,10 @@
   <li>Training Data Loss: 0.90</li> 
   <li>Test Data Loss: 0.31</li> 
 </ul>  
+<h2>Model Prediction</h2>
+<p align="center"> 
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Output.png?raw=true" width="700" height="400">
+</p>
+</p>
 
 
