@@ -26,7 +26,7 @@
 <h2>Model Training</h2>   
 <h3>Model Loss</h3>   
 <p align="center"> 
-<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Loss.png?raw=true" width="500" height="700">
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Loss.png?raw=true" width="800" height="500">
 </p>
 <h3>Model Accuracy</h3>  
 <p align="center"> 
