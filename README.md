@@ -45,5 +45,22 @@
 <img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Output.png?raw=true" width="700" height="400">
 </p>
 </p>
+<h2>Model Introspection</h2>
+<h4>Confusion Matrix</h4>  
+<p align="center"> 
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Confusion%20Matrix.png?raw=true" width="500" height="500">
+</p>
+<h4>Receiver Operating Characteristics (ROC)</h4>  
+<p align="center"> 
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/ROC.png?raw=true" width="700" height="400">
+</p>
+<h4>Precision vs. Recall curve</h4> 
+<p align="center"> 
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Precision%20Vs%20Recall.png?raw=true" width="700" height="400">
+</p>
+<h4>Classification Report</h4>  
+<p align="center"> 
+<img src="" width="700" height="400">
+</p>
 
 
