@@ -26,11 +26,11 @@
 <h2>Model Training</h2>   
 <h3>Model Loss</h3>   
 <p align="center"> 
-<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Loss.png?raw=true" width="800" height="500">
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Loss.png?raw=true" width="700" height="400">
 </p>
 <h3>Model Accuracy</h3>  
 <p align="center"> 
-<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Accuracy.png?raw=true" width="800" height="500">
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Accuracy.png?raw=true" width="700" height="400">
 </p>
 </p>
 
