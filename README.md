@@ -48,7 +48,7 @@
 <h2>Model Introspection</h2>
 <h4>Confusion Matrix</h4>  
 <p align="center"> 
-<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Confusion%20Matrix.png?raw=true" width="500" height="500">
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Confusion%20Matrix.png?raw=true" width="400" height="400">
 </p>
 <h4>Receiver Operating Characteristics (ROC)</h4>  
 <p align="center"> 
