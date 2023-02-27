@@ -15,7 +15,7 @@
 </ul>
 <h2>Data Visualization</h2>
 <p align="center"> 
-<img src="[https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Equal%20Data%20Distribution.png.png?raw=true](https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Dataset.png?raw=true)" width="750" height="450">
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Dataset.png?raw=true" width="750" height="500">
 </p>
 <h2>Target Class Distribution</h2>
 <p>Here zero stands for the infected histopathological image, and one is for the anon-infected histopathological image.</p>
