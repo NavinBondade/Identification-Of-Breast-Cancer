@@ -62,6 +62,7 @@
 <p align="center"> 
 <img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Classification%20Report.png?raw=true" width="700" height="700">
 </p>
+<h2>Conclusion</h2>  
 <p>In this project, I have created deep convolutional neural network architecture for correctly identifying breast cancer with an accuracy of 90 percent accuracy. </p>  
 
 
