@@ -33,5 +33,12 @@
 <img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Accuracy.png?raw=true" width="700" height="400">
 </p>
 </p>
+<h2>Model Evaluation</h2>
+<ul>
+  <li><b>Training Data Accuracy: 90 %</b></li>
+  <li><b>Test Data Accuracy: 86 %</b></li>
+  <li><b>Training Data Loss: 0.90</b></li> 
+  <li><b>Test Data Loss: 0.31</b></li> 
+</ul>  
 
 
