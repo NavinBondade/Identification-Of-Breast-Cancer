@@ -14,7 +14,7 @@
   <li>NLTK</li>
 </ul>
 <h2>Data Visualization</h2>
-<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Dataset.png?raw=true">
+<img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Dataset.png?raw=true" width="700" height="520">
 </p>
 <h2>Target Class Distribution</h2>
 <p>Here zero stands for the infected histopathological image, and one is for the anon-infected histopathological image.</p>
