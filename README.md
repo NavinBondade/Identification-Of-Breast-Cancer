@@ -2,4 +2,4 @@
 <p align="center">
 </p>
 <img src="https://cdn.britannica.com/54/179554-138-A3C5FBA0/use-mammographies-resonance-breast-cancer.jpg" width="1500" height="520">
-<p>The one major thing that this pandemic taught us is that the ratio of available doctors to the country's population is very low. Here in the project, I have created a retrieval-based health chatbot that answers users questions related to their health and helps in accelerating the treatment process. </p>
+<p>Breast cancer is one of the most common types of cancer. In 2020, there were 2.3 million women diagnosed with breast cancer and 685 000 deaths globally.  It occurs when breast cells mutate and grow out of control, creating a mass of tissue. Also, it can start in one or both breasts. Like other cancers, breast cancer can invade and grow into the tissue surrounding your breast. </p>
