@@ -35,10 +35,10 @@
 </p>
 <h2>Model Evaluation</h2>
 <ul>
-  <li><b>Training Data Accuracy: 90 %</b></li>
-  <li><b>Test Data Accuracy: 86 %</b></li>
-  <li><b>Training Data Loss: 0.90</b></li> 
-  <li><b>Test Data Loss: 0.31</b></li> 
+  <li>Training Data Accuracy: 90 %</b></li>
+  <li>Test Data Accuracy: 86 %</li>
+  <li>Training Data Loss: 0.90</li> 
+  <li>Test Data Loss: 0.31</li> 
 </ul>  
 
 
