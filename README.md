@@ -24,7 +24,15 @@
 <img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Equal%20Data%20Distribution.png.png?raw=true" width="400" height="450">
 </p>
 <h2>Methodology and Approach</h2>
-<p>Here, I have developed a neural network architecture that has been trained on six thousand positive and negative class breast cancer histopathological images. The model is made up of three CNN layers and three ANN layers. It has been trained for twenty epochs with binary cross entropy as the loss function and adam as the optimizer.</p>
+<p>
+I have developed and rigorously trained a neural network model specifically designed for the classification of breast cancer using histopathological images. This model integrates convolutional neural network (CNN) layers with artificial neural network (ANN) layers to effectively analyze and interpret complex image data. The architecture consists of three CNN layers, each followed by a max-pooling layer, to systematically extract and condense spatial features from the input images. These CNN layers process images of 100x100 pixels with three color channels, and progressively increase in depth from 32 to 192 filters, enhancing the model's ability to capture intricate patterns indicative of malignancy.
+</p>
+<p>
+After the feature extraction, the output is flattened into a one-dimensional vector and passed through three dense (fully connected) layers in the ANN portion of the network. Dropout layers are incorporated between the dense layers to prevent overfitting by randomly disabling a fraction of neurons during training. The final dense layer outputs a single value, which represents the binary classification of the input image as either positive (cancerous) or negative (non-cancerous).
+</p>
+<p>
+This model was trained on a dataset consisting of 6,000 histopathological images, equally divided between positive and negative classes. The training was conducted over 20 epochs, using binary cross-entropy as the loss function and the Adam optimizer for adjusting the network's weights. This approach yielded a highly accurate model, capable of identifying breast cancer with an accuracy rate of 90%, offering a promising tool for early detection and diagnosis.  
+</p>
 <p align="center"> 
 <img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/model_graph.png?raw=true">
 </p>
