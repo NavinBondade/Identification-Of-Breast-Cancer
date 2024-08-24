@@ -13,6 +13,8 @@
   <li>Sklearn</li>
 </ul>
 <h2>Data Visualization</h2>
+<p> Below is the visualization of the dataset, which is labeled as either "Positive" or "Negative" for breast cancer. Each image of the dataset represents a sample of breast tissue, stained and magnified, to highlight cellular structures. The "Positive" labels correspond to images where cancerous cells are present, showing irregularities such as dense cellular clusters or abnormal tissue architecture. In contrast, the "Negative" labels indicate non-cancerous tissue, where the cellular structure appears more organized and uniform. This dataset is likely used to train or evaluate a deep neural network model to distinguish between cancerous and non-cancerous breast tissue with high accuracy.
+</p>
 <p align="center"> 
 <img src="https://github.com/NavinBondade/Identification-Of-Breast-Cancer/blob/main/Graphs/Dataset.png?raw=true" width="750" height="500">
 </p>
