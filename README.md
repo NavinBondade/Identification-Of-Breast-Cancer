@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 <img src="https://cdn.britannica.com/54/179554-138-A3C5FBA0/use-mammographies-resonance-breast-cancer.jpg" width="1500" height="520">
-<p>Breast cancer is one of the most common types of cancer. In 2020, there were 2.3 million women diagnosed with breast cancer and 685 000 deaths globally.  It occurs when breast cells mutate and grow out of control, creating a mass of tissue. Breast cancer can invade and grow into the tissue surrounding the breast. In this project, I have developed a custom deep neural network that has been trained on infected and uninfected breast cancer histopathological images and is able to identify whether a person has breast cancer or not with 90% accuracy. </p>
+<p>Breast cancer remains one of the most prevalent and challenging health issues worldwide, with 2.3 million women diagnosed and 685,000 deaths reported globally in 2020 alone. The disease originates from mutations in breast cells that proliferate uncontrollably, forming a mass of tissue that can invade and damage surrounding breast tissue. To address this critical concern, I have developed a custom deep neural network specifically trained on histopathological images of both infected and uninfected breast tissue. This model demonstrates a remarkable 90% accuracy in distinguishing between malignant and non-malignant cases, offering a promising tool for early detection and treatment planning in breast cancer care. </p>
 <h2>Libraries Used</h2>
 <ul>
   <li>Tensorflow</li>
