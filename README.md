@@ -5,7 +5,7 @@
 <p>Breast cancer remains one of the most prevalent and challenging health issues worldwide, with 2.3 million women diagnosed and 685,000 deaths reported globally in 2020 alone. The disease originates from mutations in breast cells that proliferate uncontrollably, forming a mass of tissue that can invade and damage surrounding breast tissue. To address this critical concern, I have developed a custom deep neural network specifically trained on histopathological images of both infected and uninfected breast tissue. This model demonstrates a remarkable 90% accuracy in distinguishing between malignant and non-malignant cases, offering a promising tool for early detection and treatment planning in breast cancer care. </p>
 <h2>Libraries Used</h2>
 <ul>
-  <li>Tensorflow</li>
+  <li>Tensorflow</li>  
   <li>Numpy</li>
   <li>Pandas </li>
   <li>Matplotlib</li>
